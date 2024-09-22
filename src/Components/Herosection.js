@@ -3,7 +3,7 @@ import AnimationSkills from "./Elements/Animation.js";
 
 export default function HeroSec() {
   return (
-    <main className="flex-1 flex items-start justify-start"> {/* Align items to the top-left */}
+    <main className="flex-1 flex items-start justify-start mt-16 md:mt-0"> {/* Add margin-top for mobile */}
       <div className="max-w-3xl text-left space-y-4"> {/* Align text to the left */}
         <div className="flex flex-col items-start justify-start space-y-4"> {/* Align items to the left */}
           <h1 className="text-5xl font-bold text-white">Hi, I'm Mani Chandra</h1>
