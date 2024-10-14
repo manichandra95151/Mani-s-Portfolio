@@ -23,14 +23,14 @@ export const projectData = [
   },
    {
     name: "Wristly",
-    image: postman,
+    image: wristly,
     description: "A sophisticated e-commerce platform for wristwatches that utilizes Redux Toolkit for efficient global state management. Users can add items to their wishlist, view detailed watch descriptions, and manage their cart with adjustable quantities. The application also maintains user account details for easy access and management.",
     github: "https://github.com/manichandra95151/Wristly",
     liveLink: "https://wristly.vercel.app/",
   },
    {
     name: "Task Manager",
-    image: postman,
+    image: task,
     description: "Application that streamlines task management, allowing users to add, edit, and prioritize tasks effortlessly. It features a robust priority sorting mechanism, enabling users to organize tasks by urgency and importance. Utilizing Redux for efficient state management, the app offers a user-friendly interface for an enhanced experience.",
     github: "https://github.com/manichandra95151/Task-Manager",
     liveLink: "https://task-manager-steel-nine-13.vercel.app/",
