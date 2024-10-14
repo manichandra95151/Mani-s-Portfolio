@@ -35,18 +35,4 @@ export const projectData = [
     github: "https://github.com/manichandra95151/Task-Manager",
     liveLink: "https://task-manager-steel-nine-13.vercel.app/",
   },
-  // {
-  //   name: "E-commerce",
-  //   image: ecom,
-  //   description: "The frontend of a dynamic e-commerce platform crafted with React and Redux, incorporating features like product browsing, cart management, and a responsive design for optimal user engagement.",
-  //   github: "https://github.com/manichandra95151/E-Commerce",
-  //   liveLink: "//e-commerce-git-main-manichandra95151s-projects.vercel.app/",
-  // },
-  // {
-  //   name: "Habit Tracker",
-  //   image: habit,
-  //   description: "An intuitive habit-tracking application utilizing MongoDB Cloud, enabling users to effortlessly manage and monitor their daily habits without the need for authentication.",
-  //   github: "https://github.com/manichandra95151/Habit-Tracker",
-  //   liveLink: "https://habit-tracker-wx18.onrender.com/",
-  // },
 ];
