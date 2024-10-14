@@ -1,7 +1,9 @@
 import ecom from "../Data/imgaes/ecom.png"
 import job from "../Data/imgaes/job.png"
-import postman from "../Data/imgaes/postman.png"
-import habit from "../Data/imgaes/habit.png"
+import wristly from "../Data/imgaes/wristly.png"
+import task from "../Data/imgaes/task.png"
+// import postman from "../Data/imgaes/postman.png"
+// import habit from "../Data/imgaes/habit.png"
 
 
 export const projectData = [
@@ -19,18 +21,32 @@ export const projectData = [
     github: "https://github.com/manichandra95151/Postaway",
     liveLink: "",
   },
-  {
-    name: "E-commerce",
-    image: ecom,
-    description: "The frontend of a dynamic e-commerce platform crafted with React and Redux, incorporating features like product browsing, cart management, and a responsive design for optimal user engagement.",
-    github: "https://github.com/manichandra95151/E-Commerce",
-    liveLink: "//e-commerce-git-main-manichandra95151s-projects.vercel.app/",
+   {
+    name: "Wristly",
+    image: postman,
+    description: "A sophisticated e-commerce platform for wristwatches that utilizes Redux Toolkit for efficient global state management. Users can add items to their wishlist, view detailed watch descriptions, and manage their cart with adjustable quantities. The application also maintains user account details for easy access and management.",
+    github: "https://github.com/manichandra95151/Wristly",
+    liveLink: "https://wristly.vercel.app/",
   },
-  {
-    name: "Habit Tracker",
-    image: habit,
-    description: "An intuitive habit-tracking application utilizing MongoDB Cloud, enabling users to effortlessly manage and monitor their daily habits without the need for authentication.",
-    github: "https://github.com/manichandra95151/Habit-Tracker",
-    liveLink: "https://habit-tracker-wx18.onrender.com/",
+   {
+    name: "Task Manager",
+    image: postman,
+    description: "Application that streamlines task management, allowing users to add, edit, and prioritize tasks effortlessly. It features a robust priority sorting mechanism, enabling users to organize tasks by urgency and importance. Utilizing Redux for efficient state management, the app offers a user-friendly interface for an enhanced experience.",
+    github: "https://github.com/manichandra95151/Task-Manager",
+    liveLink: "https://task-manager-steel-nine-13.vercel.app/",
   },
+  // {
+  //   name: "E-commerce",
+  //   image: ecom,
+  //   description: "The frontend of a dynamic e-commerce platform crafted with React and Redux, incorporating features like product browsing, cart management, and a responsive design for optimal user engagement.",
+  //   github: "https://github.com/manichandra95151/E-Commerce",
+  //   liveLink: "//e-commerce-git-main-manichandra95151s-projects.vercel.app/",
+  // },
+  // {
+  //   name: "Habit Tracker",
+  //   image: habit,
+  //   description: "An intuitive habit-tracking application utilizing MongoDB Cloud, enabling users to effortlessly manage and monitor their daily habits without the need for authentication.",
+  //   github: "https://github.com/manichandra95151/Habit-Tracker",
+  //   liveLink: "https://habit-tracker-wx18.onrender.com/",
+  // },
 ];
