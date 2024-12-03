@@ -19,7 +19,7 @@ export default function HeroSec() {
 
           {/* Button for downloading the resume */}
           <a
-            href="/Resume.pdf" // Replace with the actual path to your resume file
+            href="/Mani(1).pdf" // Replace with the actual path to your resume file
             download="Mani_Chandra_Resume.pdf" // Customize the downloaded file name
             className="inline-flex items-center gap-2 px-4 py-2 text-lightdark  rounded-lg border-2 border-[rgba(38,38,38,0.5)] hover:border-[rgba(145,86,101,0.5)] transition-all duration-300 hover:text-gray-300"
           >
